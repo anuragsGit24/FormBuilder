@@ -78,6 +78,7 @@ A responsive and modern web application that allows users to build custom forms 
 
 ## 🧑‍💻 Author
 
-Made with ❤️ by **Anurag S.**
+Made by **Anurag S.**
+Feel free to fork and enhance!
 
 📫 [ddformbuilder.netlify.app](https://ddformbuilder.netlify.app)
