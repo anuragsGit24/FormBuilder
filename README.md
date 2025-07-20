@@ -2,8 +2,6 @@
 
 A responsive and modern web application that allows users to build custom forms using an intuitive drag-and-drop interface. Built using **HTML**, **CSS**, and **JavaScript**, this tool supports exporting, editing, and saving forms — no backend required!
 
-🔗 **Live Demo:** [ddformbuilder.netlify.app](https://ddformbuilder.netlify.app)
-
 ---
 
 ## 🔍 Features
@@ -80,5 +78,3 @@ A responsive and modern web application that allows users to build custom forms 
 
 Made by **Anurag S.**
 Feel free to fork and enhance!
-
-📫 [ddformbuilder.netlify.app](https://ddformbuilder.netlify.app)
