@@ -63,7 +63,7 @@ function drop(e){
       break;
 
     default: 
-      newElement = createText();
+      break;
   }
 
   if(newElement){
